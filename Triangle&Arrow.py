@@ -17,6 +17,6 @@ def arrow(num):
             break
 
 
-i = int(input("Enter the rows:"))
+i = int(input("Enter the number of rows:"))
 triangle(num=i)
 arrow(num=i)
